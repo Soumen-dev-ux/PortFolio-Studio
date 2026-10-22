@@ -1,0 +1,7 @@
+
+.expo/
+.expo/
+
+node_modules
+.env
+.prettierrc

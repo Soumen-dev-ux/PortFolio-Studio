@@ -1,0 +1,19 @@
+{
+  "expo": {
+    "name": "Portfolio Studio",
+    "slug": "portfolio-studio-soumen",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "android": {
+      "package": "com.soumenpore.portfoliostudio",
+      "versionCode": 1
+    },
+    "extra": {
+      "eas": {
+        "projectId": "e6fd3e6b-578d-41b0-9ee9-82b9168749ce"
+      }
+    },
+    "owner": "techie_sou"
+  }
+}
